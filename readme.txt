@@ -1,2 +1,2 @@
-git 是一个分布式版本系统
-git 是免费试用的！！！！！！！
+git is a littele hard!!
+git is readme.txt

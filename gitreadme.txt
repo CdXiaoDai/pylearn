@@ -14,3 +14,4 @@ just master
 git f1!!!!
 i am trying stash
 i am trying stash agin aigin
+i changged email 594188891@qq.com

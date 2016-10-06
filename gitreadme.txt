@@ -12,4 +12,5 @@ just master
 just master
 >>>>>>> feature
 git f1!!!!
-i am trying stash 
+i am trying stash
+i am trying stash agin aigin

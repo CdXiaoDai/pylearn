@@ -1,3 +1,4 @@
 i am doing stash
 i am doing stash agin in test
 i am f6 doing 
+i am in test.txt aigin 3
